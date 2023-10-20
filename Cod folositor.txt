@@ -1,0 +1,7 @@
+case "removerole":
+            message.member.removeRole(member.guild.roles.find("name", "Gamer"));
+            break;
+        case "deleterole":
+            message.member.removeRole(member.guild.roles.find("name", "Gamer"));
+            break;
+

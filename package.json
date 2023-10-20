@@ -1,0 +1,19 @@
+{
+  "name": "forbesbot",
+  "version": "1.0.0",
+  "description": "Ready for more",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test23"
+  },
+  "author": "Smothy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "figlet": "^1.2.0",
+    "opusscript": "0.0.6",
+    "quick": "0.0.6",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.25.2"
+  }
+}

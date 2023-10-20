@@ -1,0 +1,15 @@
+const romana require
+const english require
+
+trebuie facut cu const
+
+fac baza de date la ambele
+
+dau replace la ce am facut pana la purge
+
+
+mereu de instalat node si fs
+
+
+ coinflip, dice, lotto
+
